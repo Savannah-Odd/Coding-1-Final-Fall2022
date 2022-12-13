@@ -1,0 +1,35 @@
+body{
+    background-color: cornsilk;
+    color: crimson;
+    padding-bottom: 10%;
+}
+nav {
+    background-color: aquamarine;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.card img {
+   margin: auto;
+   padding-bottom: 10%;
+   padding-top: 5%;
+}
+.nav-item {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 2%;
+}
+.card {
+    background-color: rgb(247, 170, 142);
+    color: black;
+    padding-top: 2%;
+}
+#about {
+    background-color: rgb(236, 174, 131);
+}
+#about .card {
+    background-color: darkgrey;
+}
+#contact {
+    background-color: rgb(227, 191, 99);
+    color: black;
+}
